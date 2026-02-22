@@ -19,3 +19,7 @@ Permite o registro de novos usuários, solicitando dados pessoais, endereço, co
 Exibe os empréstimos ativos do usuário, com informações como título, datas e status. Também permite solicitar novos empréstimos e estender prazos.<br><br>
 <img width="856" height="631" alt="emprestimo" src="https://github.com/user-attachments/assets/934df894-47b8-48c6-9117-813a4c028706" /><br><br>
 
+
+Meu projeto possuiu todas essas telas aqui <br><BR>
+<img width="249" height="455" alt="image" src="https://github.com/user-attachments/assets/f5748590-ad8e-46a2-b0f6-24e7dc64ab02" />
+
